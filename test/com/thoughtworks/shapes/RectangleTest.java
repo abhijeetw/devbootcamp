@@ -15,3 +15,4 @@ public class RectangleTest {
         assertThat(new Rectangle(2,3).area(), is(6.0));
     }
 }
+
